@@ -1,0 +1,21 @@
+.cover {
+  height: 740px;
+  margin: 92px auto 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+@media screen and (max-width: 380px) {
+  .cover {
+    height: 280px;
+  }
+}
+@media screen and (max-width: 348px) {
+    .cover {
+      height: 254px;
+    }
+}

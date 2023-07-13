@@ -1,0 +1,15 @@
+.cover__group-content {
+  width: 656px;
+  min-width: 280px;
+  height: 254px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+ @media screen and (max-width: 348px) {
+    .cover__group-content {
+      width: 280px;
+      height: 207px;
+    }
+}

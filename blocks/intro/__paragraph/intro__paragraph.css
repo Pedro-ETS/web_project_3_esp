@@ -1,0 +1,11 @@
+.intro__paragraph {
+  color: #fff;
+  font-family: "Inter-Italic";
+  font-size: 16px;
+  padding-right: 30%;
+}
+ @media screen and (max-width: 768px) {
+    .intro__paragraph {
+      padding-right: 0%;
+    }
+}

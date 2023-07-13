@@ -1,0 +1,4 @@
+.place__title_space_double {
+  max-width: 585px;
+  grid-column: 1/3;
+}

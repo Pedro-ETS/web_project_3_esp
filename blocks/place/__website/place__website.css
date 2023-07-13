@@ -1,0 +1,25 @@
+.place__website{
+  grid-column: 2/3;
+  grid-row: 1/2;
+  max-width: 456px;
+  margin-top: 83px;
+}
+  @media screen and (max-width: 1180px) {
+    .place__website {
+      margin-top: 66px;
+      height: 80px;
+    }
+}
+ @media screen and (max-width: 768px) {
+    .place__website {
+      height: 90px;
+      margin-top: 0px;
+    }
+}
+  @media screen and (max-width: 720px) {
+    .place__website{
+      grid-column: 1/2;
+      grid-row: 2 / span 1;
+      text-align: center;
+    }
+}

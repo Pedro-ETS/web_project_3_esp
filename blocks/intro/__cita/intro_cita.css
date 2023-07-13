@@ -1,0 +1,11 @@
+.intro__cita {
+  color: #fff;
+  font-size: 24px;
+  font-family: "Inter-Italic";
+  padding-right: 30%;
+}
+@media screen and (max-width: 768px) {
+     .intro__cita {
+      padding-right: 0%;
+    }
+}

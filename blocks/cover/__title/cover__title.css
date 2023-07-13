@@ -1,0 +1,17 @@
+.cover__title {
+  width: 100%;
+  min-width: 280px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: flex;
+  justify-content: center;
+  color: #fffdfd;
+  font-family: "Inter-Black";
+  font-size: 72px;
+  line-height: 76px;
+}
+@media screen and (max-width: 380px) {
+  .cover__title {
+    font-size: 32px;
+  }
+}

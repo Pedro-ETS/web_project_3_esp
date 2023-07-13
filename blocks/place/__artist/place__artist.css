@@ -1,0 +1,10 @@
+.place__artist {
+  color: #fff;
+  font-size: 18px;
+  font-family: "Inter-Italic";
+  line-height: 22px;
+  max-width: 456px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: left;
+}

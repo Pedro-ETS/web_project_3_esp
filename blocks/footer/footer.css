@@ -1,0 +1,17 @@
+.footer{
+  color: #fff;
+  font-family: "Inter-Italic";
+  padding-bottom: 24px;
+  margin-top: 92px;
+  text-align: center;
+}
+  @media screen and (max-width: 768px) {
+    .footer{
+      margin-top: 88px;
+  }
+  }
+ @media screen and (max-width: 348px) {
+    .footer{
+      margin-top: 64px;
+  }
+  }
